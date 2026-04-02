@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Homepage</title>
+</head>
+<body>
+    <h1>Welcome to My Homepage</h1>
+    <p>Hello! My name is Pheun SokVichda. I love learning web development 
+    with Laravel.</p>
+</body>
+</html>
